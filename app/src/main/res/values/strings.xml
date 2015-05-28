@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FriendlyForecast</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="photo_credit">© by jonrawlinson on flickr</string>
+    <string name="title_activity_view_forecast">View Forecast</string>
+
+</resources>
